@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: aliceblue;
+}
+.log{
+    width: 30%;
+    margin-left:35% ;
+}
+h2{position: relative;
+    top: 80px;
+    text-align: center;
+}
+.notis{
+    width: 30%;
+    margin-left: 35% ;
+    margin-top: 120px;
+}
+.a{background-color: transparent;
+    border: none;
+    outline: none;
+}
+.but{
+    position: relative;
+    left: 45%;
+    top: 40px;
+}
+.n{ position: relative;
+    left: 45%;
+    text-decoration: none;
+    background-color: aqua;
+    color: black;
+    padding: 4px;
+    top: 9px;
+
+}

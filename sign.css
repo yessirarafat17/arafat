@@ -1,0 +1,16 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.sin{
+    width: 50%;
+    position: absolute;
+    left: 30%;
+   
+}
+.m{
+    position: relative;
+    left: 15%;
+    text-transform: capitalize;
+}
